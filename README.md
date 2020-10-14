@@ -14,6 +14,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 * Node
 * [Gatsby CLI](https://www.gatsbyjs.org/docs/)
+* Tailwind.css
 
 ### Dependencies
 Can be found here: https://github.com/robert-upwork/feathertouch/network/dependencies
